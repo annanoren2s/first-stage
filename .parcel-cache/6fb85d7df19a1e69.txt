@@ -1,4 +1,4 @@
-6018
+6014
 81C:\Users\dell\Desktop\1st_stage\node_modules\tailwindcss\lib\lib\generateRules.js133255467509485865 0
 55C:\Users\dell\Desktop\1st_stage\node_modules\css-select133255466914701922 1
 81C:\Users\dell\Desktop\1st_stage\node_modules\@parcel\transformer-babel\lib\jsx.js133255467493967332 0
@@ -11,13 +11,13 @@
 79C:\Users\dell\Desktop\1st_stage\node_modules\@parcel\core\test\fixtures\plugins133255467506503831 1
 69C:\Users\dell\Desktop\1st_stage\node_modules\abortcontroller-polyfill133255466909824976 1
 88C:\Users\dell\Desktop\1st_stage\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133255467488112973 0
-49C:\Users\dell\Desktop\1st_stage\package-lock.json133255728389800614 0
-36C:\Users\dell\Desktop\1st_stage\dist133255730919491276 1
+49C:\Users\dell\Desktop\1st_stage\package-lock.json133255743565861607 0
+36C:\Users\dell\Desktop\1st_stage\dist133255743163310347 1
 76C:\Users\dell\Desktop\1st_stage\node_modules\caniuse-lite\data\regions\MD.js133255467539066797 0
 68C:\Users\dell\Desktop\1st_stage\node_modules\csso\lib\replace\atrule133255466920825559 1
 74C:\Users\dell\Desktop\1st_stage\node_modules\entities\lib\maps\legacy.json133255466907640806 0
 57C:\Users\dell\Desktop\1st_stage\node_modules\mz\README.md133255466887052522 0
-62C:\Users\dell\Desktop\1st_stage\node_modules\@msgpackr-extract133255728388702596 1
+62C:\Users\dell\Desktop\1st_stage\node_modules\@msgpackr-extract133255743564642807 1
 70C:\Users\dell\Desktop\1st_stage\node_modules\normalize-range\readme.md133255466885646287 0
 52C:\Users\dell\Desktop\1st_stage\node_modules\pirates133255466893129579 1
 84C:\Users\dell\Desktop\1st_stage\node_modules\htmlparser2\lib\WritableStream.d.ts.map133255466906563681 0
@@ -29,7 +29,7 @@
 75C:\Users\dell\Desktop\1st_stage\node_modules\resolve\test\precedence\aaa.js133255467493229303 0
 73C:\Users\dell\Desktop\1st_stage\node_modules\@parcel\reporter-cli\LICENSE133255467484841731 0
 74C:\Users\dell\Desktop\1st_stage\node_modules\sucrase\dist\parser\tokenizer133255467511689980 1
-44C:\Users\dell\Desktop\1st_stage\node_modules133255728388682654 1
+44C:\Users\dell\Desktop\1st_stage\node_modules133255743564613283 1
 80C:\Users\dell\Desktop\1st_stage\node_modules\css-tree\lib\syntax\node\AnPlusB.js133255466886912900 0
 89C:\Users\dell\Desktop\1st_stage\node_modules\@parcel\core\test\fixtures\duplicate-targets133255467517953241 1
 89C:\Users\dell\Desktop\1st_stage\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133255467499313049 0
@@ -45,7 +45,7 @@
 67C:\Users\dell\Desktop\1st_stage\node_modules\callsites\package.json133255466877368406 0
 81C:\Users\dell\Desktop\1st_stage\node_modules\@swc\helpers\lib\_to_property_key.js133255466972986150 0
 54C:\Users\dell\Desktop\1st_stage\node_modules\callsites133255466887531247 1
-35C:\Users\dell\Desktop\1st_stage\src133254572120000000 1
+35C:\Users\dell\Desktop\1st_stage\src133255737864484782 1
 73C:\Users\dell\Desktop\1st_stage\node_modules\electron-to-chromium\LICENSE133255466888418892 0
 120C:\Users\dell\Desktop\1st_stage\node_modules\@parcel\transformer-js\node_modules\@swc\helpers\src\_non_iterable_rest.mjs133255466997580423 0
 67C:\Users\dell\Desktop\1st_stage\node_modules\js-tokens\package.json133255466877278644 0
@@ -62,7 +62,7 @@
 53C:\Users\dell\Desktop\1st_stage\node_modules\@nodelib133255466857847886 1
 61C:\Users\dell\Desktop\1st_stage\node_modules\autoprefixer\lib133255467506942659 1
 93C:\Users\dell\Desktop\1st_stage\node_modules\@swc\helpers\cjs\_class_apply_descriptor_set.cjs133255466914522402 0
-39C:\Users\dell\Desktop\1st_stage\src\css133254572120000000 1
+39C:\Users\dell\Desktop\1st_stage\src\css133255737863790453 1
 61C:\Users\dell\Desktop\1st_stage\node_modules\css-what\LICENSE133255466877338484 0
 86C:\Users\dell\Desktop\1st_stage\node_modules\tailwindcss\src\lib\expandApplyAtRules.js133255467508169383 0
 122C:\Users\dell\Desktop\1st_stage\node_modules\@parcel\transformer-js\node_modules\@swc\helpers\src\_object_spread_props.mjs133255466997849687 0
@@ -95,7 +95,7 @@
 71C:\Users\dell\Desktop\1st_stage\node_modules\tslib\modules\package.json133255466891723345 0
 109C:\Users\dell\Desktop\1st_stage\node_modules\@parcel\node-resolver-core\parcel-resolver.linux-arm64-musl.node133255467507271776 0
 82C:\Users\dell\Desktop\1st_stage\node_modules\caniuse-lite\data\features\colr-v1.js133255467510772424 0
-46C:\Users\dell\Desktop\1st_stage\src\index.html133255530435994949 0
+46C:\Users\dell\Desktop\1st_stage\src\index.html133255441680000000 0
 38C:\Users\dell\Desktop\1st_stage\src\js133254572120000000 1
 61C:\Users\dell\Desktop\1st_stage\node_modules\.bin\sucrase.ps1133255467578526728 0
 48C:\Users\dell\Desktop\1st_stage\src\css\main.css133254579470000000 0
@@ -108,7 +108,7 @@
 49C:\Users\dell\Desktop\1st_stage\node_modules\.bin133255467578486829 1
 62C:\Users\dell\Desktop\1st_stage\node_modules\json5\lib\util.js133255467493398864 0
 67C:\Users\dell\Desktop\1st_stage\node_modules\nanoid\async\index.cjs133255467487753948 0
-63C:\Users\dell\Desktop\1st_stage\node_modules\.package-lock.json133255728390279307 0
+63C:\Users\dell\Desktop\1st_stage\node_modules\.package-lock.json133255743566081062 0
 63C:\Users\dell\Desktop\1st_stage\node_modules\didyoumean\LICENSE133255466877328516 0
 84C:\Users\dell\Desktop\1st_stage\node_modules\supports-preserve-symlinks-flag\.github133255466896341014 1
 84C:\Users\dell\Desktop\1st_stage\node_modules\tailwindcss\lib\util\normalizeConfig.js133255467517973180 0
@@ -138,7 +138,7 @@
 90C:\Users\dell\Desktop\1st_stage\node_modules\caniuse-lite\data\features\css-reflections.js133255467521094842 0
 83C:\Users\dell\Desktop\1st_stage\node_modules\@parcel\transformer-babel\src\types.js133255467495722639 0
 50C:\Users\dell\Desktop\1st_stage\node_modules\fastq133255466901646831 1
-50C:\Users\dell\Desktop\1st_stage\node_modules\@lmdb133255728388702596 1
+50C:\Users\dell\Desktop\1st_stage\node_modules\@lmdb133255743564652781 1
 76C:\Users\dell\Desktop\1st_stage\node_modules\caniuse-lite\data\regions\DO.js133255467525303602 0
 61C:\Users\dell\Desktop\1st_stage\node_modules\readdirp\LICENSE133255466877208828 0
 97C:\Users\dell\Desktop\1st_stage\node_modules\@swc\helpers\cjs\_class_extract_field_descriptor.cjs133255466917703901 0
@@ -161,7 +161,7 @@
 61C:\Users\dell\Desktop\1st_stage\node_modules\timsort\index.js133255466890785859 0
 88C:\Users\dell\Desktop\1st_stage\node_modules\caniuse-lite\data\features\console-basic.js133255467511031737 0
 72C:\Users\dell\Desktop\1st_stage\node_modules\sucrase\dist\NameManager.js133255467507600889 0
-49C:\Users\dell\Desktop\1st_stage\node_modules\@swc133255728388692620 1
+49C:\Users\dell\Desktop\1st_stage\node_modules\@swc133255743564632838 1
 73C:\Users\dell\Desktop\1st_stage\node_modules\@parcel\workers\lib\child.js133255467490376947 0
 71C:\Users\dell\Desktop\1st_stage\node_modules\camelcase-css\package.json133255466877717477 0
 55C:\Users\dell\Desktop\1st_stage\node_modules\domhandler133255466893179453 1
@@ -2016,7 +2016,7 @@
 75C:\Users\dell\Desktop\1st_stage\node_modules\cosmiconfig\dist\Explorer.d.ts133255466918920672 0
 88C:\Users\dell\Desktop\1st_stage\node_modules\sucrase\node_modules\commander\CHANGELOG.md133255466887999998 0
 67C:\Users\dell\Desktop\1st_stage\node_modules\any-promise\index.d.ts133255466920237135 0
-59C:\Users\dell\Desktop\1st_stage\dist\index.11433e50.css.map133255730919481310 0
+59C:\Users\dell\Desktop\1st_stage\dist\index.11433e50.css.map133255743163300369 0
 83C:\Users\dell\Desktop\1st_stage\node_modules\sucrase\node_modules\commander\LICENSE133255466877697528 0
 78C:\Users\dell\Desktop\1st_stage\node_modules\sucrase\dist\Options-gen-types.js133255467508418713 0
 64C:\Users\dell\Desktop\1st_stage\node_modules\css-tree\lib\common133255466952810295 1
@@ -3249,7 +3249,7 @@
 104C:\Users\dell\Desktop\1st_stage\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.c133255466925562896 0
 88C:\Users\dell\Desktop\1st_stage\node_modules\csso\lib\restructure\4-restructShorthand.js133255466890506589 0
 79C:\Users\dell\Desktop\1st_stage\node_modules\css-tree\lib\syntax\node\Atrule.js133255466890496629 0
-59C:\Users\dell\Desktop\1st_stage\dist\index.34df27b5.css.map133255730235931694 0
+59C:\Users\dell\Desktop\1st_stage\dist\index.34df27b5.css.map133255742820356091 0
 104C:\Users\dell\Desktop\1st_stage\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.c133255466926560231 0
 61C:\Users\dell\Desktop\1st_stage\node_modules\has-flag\license133255466885696151 0
 104C:\Users\dell\Desktop\1st_stage\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c133255466927547600 0
@@ -3434,7 +3434,7 @@
 65C:\Users\dell\Desktop\1st_stage\node_modules\htmlnano\lib\modules133255466919908024 1
 72C:\Users\dell\Desktop\1st_stage\node_modules\htmlnano\lib\presets\max.js133255466906902783 0
 96C:\Users\dell\Desktop\1st_stage\node_modules\htmlnano\lib\modules\collapseAttributeWhitespace.js133255466894675448 0
-55C:\Users\dell\Desktop\1st_stage\dist\index.34df27b5.css133255730234475455 0
+55C:\Users\dell\Desktop\1st_stage\dist\index.34df27b5.css133255742820136686 0
 110C:\Users\dell\Desktop\1st_stage\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\.eslintrc.json133255467491573743 0
 87C:\Users\dell\Desktop\1st_stage\node_modules\htmlnano\lib\modules\collapseWhitespace.js133255466898056418 0
 71C:\Users\dell\Desktop\1st_stage\node_modules\css-what\lib\es\types.d.ts133255466915031043 0
@@ -3699,7 +3699,6 @@
 89C:\Users\dell\Desktop\1st_stage\node_modules\@parcel\transformer-postcss\src\constants.js133255467486876286 0
 69C:\Users\dell\Desktop\1st_stage\node_modules\dotenv-expand\index.d.ts133255466883482085 0
 76C:\Users\dell\Desktop\1st_stage\node_modules\caniuse-lite\data\regions\IT.js133255467536184530 0
-55C:\Users\dell\Desktop\1st_stage\dist\index.38c335d9.css133255729868933565 0
 65C:\Users\dell\Desktop\1st_stage\node_modules\@swc\helpers\_\index133255467001026417 1
 65C:\Users\dell\Desktop\1st_stage\node_modules\.bin\detect-libc.ps1133255467578486829 0
 71C:\Users\dell\Desktop\1st_stage\node_modules\dotenv-expand\package.json133255466877318538 0
@@ -5958,7 +5957,6 @@
 103C:\Users\dell\Desktop\1st_stage\node_modules\@babel\highlight\node_modules\color-convert\conversions.js133255466884299893 0
 96C:\Users\dell\Desktop\1st_stage\node_modules\@babel\highlight\node_modules\color-convert\LICENSE133255466890187447 0
 101C:\Users\dell\Desktop\1st_stage\node_modules\@babel\highlight\node_modules\color-convert\package.json133255466877707497 0
-59C:\Users\dell\Desktop\1st_stage\dist\public.59712999.js.map133255405270000000 0
 97C:\Users\dell\Desktop\1st_stage\node_modules\@babel\highlight\node_modules\color-convert\route.js133255466893009906 0
 94C:\Users\dell\Desktop\1st_stage\node_modules\@babel\highlight\node_modules\chalk\index.js.flow133255466883890978 0
 88C:\Users\dell\Desktop\1st_stage\node_modules\@babel\highlight\node_modules\chalk\license133255466886194818 0
@@ -6011,9 +6009,7 @@
 58C:\Users\dell\Desktop\1st_stage\node_modules\.bin\svgo.cmd133255467578536706 0
 62C:\Users\dell\Desktop\1st_stage\node_modules\.bin\tailwind.cmd133255467578526728 0
 61C:\Users\dell\Desktop\1st_stage\node_modules\.bin\tailwindcss133255467578536706 0
-58C:\Users\dell\Desktop\1st_stage\dist\1st_stage.59712999.js133255534449627299 0
-62C:\Users\dell\Desktop\1st_stage\dist\1st_stage.59712999.js.map133255534449926495 0
-55C:\Users\dell\Desktop\1st_stage\dist\index.11433e50.css133255730919331687 0
-59C:\Users\dell\Desktop\1st_stage\dist\index.38c335d9.css.map133255729869133047 0
-47C:\Users\dell\Desktop\1st_stage\dist\index.html133255730919331687 0
-55C:\Users\dell\Desktop\1st_stage\dist\public.59712999.js133255405270000000 0
+58C:\Users\dell\Desktop\1st_stage\dist\1st_stage.59712999.js133255742820236447 0
+62C:\Users\dell\Desktop\1st_stage\dist\1st_stage.59712999.js.map133255742820356091 0
+55C:\Users\dell\Desktop\1st_stage\dist\index.11433e50.css133255743163160748 0
+47C:\Users\dell\Desktop\1st_stage\dist\index.html133255743163160748 0
