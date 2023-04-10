@@ -12,7 +12,7 @@
 69C:\Users\dell\Desktop\1st_stage\node_modules\abortcontroller-polyfill133255466909824976 1
 88C:\Users\dell\Desktop\1st_stage\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133255467488112973 0
 49C:\Users\dell\Desktop\1st_stage\package-lock.json133255743565861607 0
-36C:\Users\dell\Desktop\1st_stage\dist133255743163310347 1
+36C:\Users\dell\Desktop\1st_stage\dist133256093465985691 1
 76C:\Users\dell\Desktop\1st_stage\node_modules\caniuse-lite\data\regions\MD.js133255467539066797 0
 68C:\Users\dell\Desktop\1st_stage\node_modules\csso\lib\replace\atrule133255466920825559 1
 74C:\Users\dell\Desktop\1st_stage\node_modules\entities\lib\maps\legacy.json133255466907640806 0
@@ -95,7 +95,7 @@
 71C:\Users\dell\Desktop\1st_stage\node_modules\tslib\modules\package.json133255466891723345 0
 109C:\Users\dell\Desktop\1st_stage\node_modules\@parcel\node-resolver-core\parcel-resolver.linux-arm64-musl.node133255467507271776 0
 82C:\Users\dell\Desktop\1st_stage\node_modules\caniuse-lite\data\features\colr-v1.js133255467510772424 0
-46C:\Users\dell\Desktop\1st_stage\src\index.html133255441680000000 0
+46C:\Users\dell\Desktop\1st_stage\src\index.html133256083112954725 0
 38C:\Users\dell\Desktop\1st_stage\src\js133254572120000000 1
 61C:\Users\dell\Desktop\1st_stage\node_modules\.bin\sucrase.ps1133255467578526728 0
 48C:\Users\dell\Desktop\1st_stage\src\css\main.css133254579470000000 0
@@ -6011,5 +6011,5 @@
 61C:\Users\dell\Desktop\1st_stage\node_modules\.bin\tailwindcss133255467578536706 0
 58C:\Users\dell\Desktop\1st_stage\dist\1st_stage.59712999.js133255742820236447 0
 62C:\Users\dell\Desktop\1st_stage\dist\1st_stage.59712999.js.map133255742820356091 0
-55C:\Users\dell\Desktop\1st_stage\dist\index.11433e50.css133255743163160748 0
-47C:\Users\dell\Desktop\1st_stage\dist\index.html133255743163160748 0
+55C:\Users\dell\Desktop\1st_stage\dist\index.11433e50.css133255744849521734 0
+47C:\Users\dell\Desktop\1st_stage\dist\index.html133256093465965736 0
